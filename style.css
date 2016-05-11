@@ -8,3 +8,19 @@ body {
 a {
     color: #00FF00;
 }
+
+img {
+height:280;
+width:128;
+}
+
+#header {
+
+	background:#1CB7EB;
+	width:715px;
+}
+
+#main {
+background:#4DFF1C;
+width:340px;
+}
