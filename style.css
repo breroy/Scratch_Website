@@ -1,14 +1,29 @@
 body {
     background-color: #2E85FF;
     font-family: 'Slabo 27px', sans serif;
+
 }
 
 
 
 a {
-    color: #00FF00;
+    color: #D13B3B;
 }
 
+p {
+
+font-size:18px;
+
+}
+
+h1 {
+font-size: 45px;
+}
+
+h2{
+
+	font-size: 28px;
+}
 img {
 height:280;
 width:128;
@@ -17,10 +32,21 @@ width:128;
 #header {
 
 	background:#1CB7EB;
-	width:715px;
+	width:700px;
+	border-radius:5px;
+	padding-top:3px;
+	padding-bottom:5px;
+	padding-left:15px;
+
+
 }
 
 #main {
 background:#4DFF1C;
-width:340px;
+width:410px;
+border-radius:5px;
+padding-left:10px;
+padding-bottom:5px;
+padding-top:3px;
+margin-top:25px;
 }
